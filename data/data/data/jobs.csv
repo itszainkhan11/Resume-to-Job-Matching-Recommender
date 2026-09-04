@@ -1,1 +1,14 @@
 
+job_id,job_title,job_description
+1,Python Developer,"Develop Python applications and APIs using Python, Django, Flask, SQL and REST APIs. Experience with software development and backend programming is required."
+2,Data Analyst,"Analyze business data using Python, pandas, SQL, Excel and data visualization. Knowledge of statistics and reporting is preferred."
+3,Machine Learning Engineer,"Build and deploy machine learning models using Python, scikit-learn, pandas and NumPy. Experience with model evaluation and data preprocessing is required."
+4,Frontend Developer,"Build responsive web applications using HTML, CSS, JavaScript and React. Experience with frontend development and UI design is preferred."
+5,Backend Developer,"Develop scalable backend services using Python, Java or Node.js. Knowledge of databases, APIs, authentication and server-side programming is required."
+6,Data Scientist,"Work with large datasets and develop predictive models using Python, machine learning, statistics, pandas and scikit-learn."
+7,Graphic Designer,"Create visual designs, social media graphics and marketing materials using Adobe Photoshop, Illustrator and graphic design principles."
+8,DevOps Engineer,"Manage cloud infrastructure, CI/CD pipelines and deployment automation. Experience with Docker, Linux, Git and cloud platforms is required."
+9,Cybersecurity Analyst,"Monitor security systems, identify vulnerabilities and investigate security incidents. Knowledge of networking, security tools and threat analysis is preferred."
+10,Software Engineer,"Design, develop, test and maintain software applications. Experience with programming, databases, APIs and software development practices is required."
+11,AI Engineer,"Develop artificial intelligence applications using Python, machine learning, natural language processing and deep learning techniques."
+12,SQL Developer,"Design and maintain databases, write complex SQL queries and optimize database performance. Experience with relational databases is required."
